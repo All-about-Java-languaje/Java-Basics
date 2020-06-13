@@ -1,5 +1,5 @@
-en el momento en que se crea una varibale de tipo primitivo y es usada para pasar por parametro de algpun metodo
-, lo que realmente se envia es una copia de esta, mantiendo su valor original:
+En el momento en que se crea una varibale de tipo primitivo y es usada para pasar por parametro de algun metodo
+, lo que realmente se envia es una copia de esta, manteniendo su valor original:
 
 int age = 3;
 

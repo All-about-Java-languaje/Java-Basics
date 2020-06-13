@@ -6,7 +6,7 @@
 
 - Las contantes es posible llamarlas totalmente en mayusculas separadas por guion bajo.
 
-- Cuando la variable es de tipo boolean su metodo "getter GETTER GETTER GETTEEEEER"  ya no ira precedido por la palabra set y el nombre del atributo sino por el prefijo
+- Cuando la variable es de tipo boolean su metodo "getter GETTER GETTER GETTEEEEER"  ya no ira precedido por la palabra get y el nombre del atributo sino por el prefijo
   is, asi:
   private Boolean value;
 

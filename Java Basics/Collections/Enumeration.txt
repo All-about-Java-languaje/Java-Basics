@@ -1,0 +1,2 @@
+- Enumeration es la antesesora de la interaz itertor y sus metodos son: hasMoreElements() y nextElement() y cumlple con la misma
+función de itertor, que es recorrer una coleccion para acceder a cada uno de sus metodos

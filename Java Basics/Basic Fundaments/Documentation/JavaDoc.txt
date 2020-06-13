@@ -1,4 +1,4 @@
-Java permite documentar nuestras clases por medio de javaDoc el cual es un docuemnto Html que muestra la docimentación de cada una de
+Java permite documentar nuestras clases por medio de javaDoc el cual es un docuemnto Html que muestra la documentación de cada una de
 las clases de un proyecto en java, para hacer uso de JavaDoc es requerido el uso de la siguiente sintaxis parecida a los comentarios
 pero que en vez de uno tiene dos asteriscos al comienzo, asi:
 
@@ -6,7 +6,7 @@ pero que en vez de uno tiene dos asteriscos al comienzo, asi:
   *  Esta clase permite...
   *  @author: Miguel Angel Feo
   *  @version: 1.0
-  *  Fecha: 15/05/2001
+  *  @Date: 15/05/2001
 */
 
 Esto sera incluido en el documento html javaDoc, es posible crear estos comentarios para la documentación en cualquier parte dentro de

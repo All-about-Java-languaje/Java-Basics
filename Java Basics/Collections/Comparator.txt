@@ -1,0 +1,2 @@
+Comparable nos permite ordenar elementos de una collección de forma total, es decir mediante el valor que nosotros deseemos
+ya sea, edad, fecha de nacimiento, etc, dependiendo de los atributos de la clase claro esta

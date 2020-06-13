@@ -2,7 +2,7 @@ INTERFACES:
 - Solo contienen la declaracion de metodos "SIN IMPLEMENTAR" y "CONSTANTES" que podran ser utilizados por la clase que la implemente.
 - Se usan cuando la definicion del codigo es diferente para cada clase pero cuyo comportamineto sea similar.
 - Es posible que una interfaz implemnete a otra interfaz
-- No es posible crear objetos de una interace, lo que si se puede es crear una variable del tipo de la interfaz que guarde un objeto de una clase que haya
+- No es posible crear objetos de una interface, lo que si se puede es crear una variable del tipo de la interfaz que guarde un objeto de una clase que haya
   implementado dicha interface
   TODO Aunque nosotros no agreguemos las palabras reservadas public y static en los atributos y public y abstract en los metodos, el compilador lo hará de forma automatica
 Ej:

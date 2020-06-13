@@ -1,5 +1,5 @@
-Los arguemntos variables o VarArgs son una forma indirecta de enviar muchos valores a un metodo, para poder hacer uso de este,
-es necesario que todos los elementos enviados sean de un mismo tipo para que todos ellos puedan ser recepcionados como un arrego
+Los arguementos variables o VarArgs son una forma indirecta de enviar muchos valores a un metodo, para poder hacer uso de este,
+es necesario que todos los elementos enviados sean de un mismo tipo para que todos ellos puedan ser recepcionados como un arreglo
 y se define de la siguiente forma:
 
 Recorrer el argumento con un for:

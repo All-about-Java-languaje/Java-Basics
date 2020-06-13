@@ -1,4 +1,4 @@
-Se le llama diseño de clases cuando se Rrequiere la creacion de un sistema en el cual
+Se le llama diseño de clases cuando se Requiere la creacion de un sistema en el cual
 las clases se interrelacionan unas con otras, tiene mucho que ver con los diagramas UML y la forma en que las entidades se relacionan
 
 Sistema de ventas:

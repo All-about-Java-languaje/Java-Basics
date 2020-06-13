@@ -6,7 +6,7 @@ Existen varias formas de salida y entrada de datos como lo es la estandar o medi
 
 
 - Las clases de tipo Buffered se usan para procesar mas de un caracter a la vez
-- Las de tipo reader o writer procesan un byte a la vez y son recomndadas para su uso en algún archivo de texto que use ASCCI o Unicode
+- Las de tipo reader o writer procesan un byte a la vez y son recomendadas para su uso en algún archivo de texto que use ASCCI o Unicode
 - Los flujos o Streams son utilizados para procesar un byte a la vez y son recomendados para procesar archivos binarios como (word, excel, pdf que son mas complejos que un simple .txt)
 
 TODO API de Lectura o entrada de datos:

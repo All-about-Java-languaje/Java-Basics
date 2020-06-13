@@ -13,5 +13,5 @@ como downasting, así:
   Bombero bombero = (Bombero) emp; //Dentro de los parentecis que anteponen el objeto a convertir, irá el tipo de objeto al cual deseamos transformarlo,
   esto siempre y cuando sea de un tipo superior a uno inferior en la jerarquia
 
-  TODO Tambien es posible hacer la conversión idrectamente donde la necesitemos sin necesidad de crear una nueva variable, asi:
+  TODO Tambien es posible hacer la conversión directamente donde la necesitemos sin necesidad de crear una nueva variable, asi:
   System.out.print(((Bombero) emp).apagarFuego());

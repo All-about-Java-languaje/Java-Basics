@@ -4,6 +4,6 @@ Reglas:
 - Los atributos deben ser privados, para hacer uso de el concepto de encapsulamiento
 - Cada propiedad deberá tener su metodo set o get, no es necesario que tenga ambos metodos, pues estos se crearan según se necesiten
 - Debe implementar la interface Serializable del paquete java.io, pues existe mas de una interfaz de tipo Serializable
-- La interfaz Serializable no tiene metodos, se usa cuando el framework o tecnoloia que lo use y quiera compartir esta clase por diferentes servidores
-  asi podrá transformar nuestros objetos en 0nos y 1nos
+- La interfaz Serializable no tiene metodos, se usa cuando el framework o tecnologia que lo use y quiera compartir esta clase por diferentes servidores
+  asi podrá transformar nuestros objetos en 0ros y 1nos
 - Los JavaBeans pueden utilizarse en cualquier versiòn de Java

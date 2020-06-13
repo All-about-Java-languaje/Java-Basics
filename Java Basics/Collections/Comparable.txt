@@ -1,0 +1,1 @@
+Esta a diferencia de Comparator esta nos permite ordenar una collección de forma natural, es decir alfabeticamente

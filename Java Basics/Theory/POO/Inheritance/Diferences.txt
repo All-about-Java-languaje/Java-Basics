@@ -1,4 +1,4 @@
-Las clases abstractas se utilizan para definir funcional en común entre aquellas clases que extiendan de la misma, dichas clases deben tener una relación en común
+Las clases abstractas se utilizan para definir funcionalidad en común entre aquellas clases que extiendan de la misma, dichas clases deben tener una relación en común
 Ej:
 public abstract class FiguraGeometrica{}
 public class Circulo extends FiguraGeometrica{}

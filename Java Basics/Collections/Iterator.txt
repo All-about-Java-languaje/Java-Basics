@@ -1,0 +1,1 @@
+- Iterator tiene los metodos hasNext(), next() y remove() y sirve para recorrer e iterar una coleccion, llamese lista, mapa o set
